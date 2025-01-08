@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/home/coder/genai_venv/bin/python3",
+    "python.venvPath": "/home/coder/genai_venv",
+    "workbench.colorTheme": "Default Dark+"
+}

@@ -1,0 +1,14 @@
+services:
+  code-server:
+    build:
+      context: ./Docker/vscode
+      dockerfile: Dockerfile
+    container_name: vscode_container
+    ports:
+      - 8080:8080
+    volumes:
+      - ./workspaces:/home/coder/workspaces
+    environment:
+      - DEFAULT_WORKSPACE=/home/coder/workspaces/test
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+
