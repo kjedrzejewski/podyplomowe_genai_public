@@ -15,8 +15,8 @@ RUN /home/coder/genai_venv/bin/pip install mathparse
 
 ENV PATH="/home/coder/genai_venv/bin:$PATH"
 
-RUN code-server --install-extension ms-python.python
-RUN code-server --install-extension ms-toolsai.jupyter
-
 COPY  --chown=coder:coder ./config.yaml /home/coder/.config/code-server/config.yaml
 COPY  --chown=coder:coder ./settings.json /home/coder/.local/share/code-server/User/settings.json
+
+RUN code-server --install-extension ms-python.python
+RUN code-server --install-extension ms-toolsai.jupyter
