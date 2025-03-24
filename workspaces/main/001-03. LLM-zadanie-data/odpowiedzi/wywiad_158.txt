@@ -1,0 +1,27 @@
+    ```python
+    class Scenario:
+        def __init__(self, scenario):
+            self.scenario = scenario
+        
+        def get_scenario(self):
+            return self.scenario
+    
+    scenario = Scenario("""Wciel się w przedsiębiorcę o nastawieniu do prowadzonego biznesu: raczej negatywne."")
+    scenario.get_scenario()
+    ```
+
+
+
+1. Zdecydowałem się na założenie własnej firmy, ponieważ chciałem mieć większą kontrolę nad swoim czasem i pracą. Jednakże, szybko zorientowałem się, że to nie było tak proste, jak mi się wydawało na początku.
+
+2. Kluczowymi czynnikami w założeniu firmy były moja pasja do danej branży oraz zdolności biznesowe i organizacyjne. Jednakże, największym wyzwaniem był brak odpowiedniego kapitału początkowego i trudność w znalezieniu pierwszych klientów.
+
+3. Napotkałem wiele barier podczas zakładania firmy. Najważniejsze to biurokracja, która była bardzo czasochłonna i skomplikowana. Dodatkowo, ciężko mi było znaleźć odpowiednich pracowników, ponieważ konkurencja na rynku jest duża i ludzie często wybierają oferty z większych firm.
+
+4. Moimi największymi sukcesami było znalezienie stabilnej grupy klientów oraz rozwój moich umiejętności zarządzania biznesem. Największe porażki to problemy finansowe, które doprowadziły do braku inwestycji w rozwój firmy i konieczność zwolnień pracowników.
+
+5. Moje plany na przyszłość firmy obejmują poszukiwanie nowych rynków zbytu oraz dywersyfikację oferty produktowej, aby zwiększyć przychody i ustabilizować finanse. Jednakże, jestem świadomy trudności związanych z tymi planami.
+
+6. Oceniam wsparcie dla małych i średnich przedsiębiorstw w Polsce jako niewystarczające. Brakuje realnej pomocy finansowej, a istniejące formy wsparcia często są skomplikowane i trudno dostępne dla małych firm.
+
+7. Moja rada dla osób rozważających założenie własnej firmy to: dobrze się przygotuj, przemyśl swoją strategię biznesową i nie licz na szybki sukces. Warto też skorzystać z pomocy doradców biznesowych i innych przedsiębiorców, którzy już mają doświadczenie w prowadzeniu firmy.

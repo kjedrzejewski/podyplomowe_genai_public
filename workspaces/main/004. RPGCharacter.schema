@@ -1,0 +1,42 @@
+{
+    "name": "RPGCharacter",
+    "schema": {
+        "type": "object",
+        "title": "RPGCharacter",
+        "description": "Model postaci RPG",
+        "properties": {
+            "genre": {"type": "string", "description": "Gatunek gry RPG (np. fantasy, sci-fi)"},
+            "name": {"type": "string", "description": "Imię postaci"},
+            "race": {"type": "string", "description": "Rasa postaci (np. człowiek, elf, krasnolud)"},
+            "class_type": {"type": "string", "description": "Klasa lub profesja postaci (np. wojownik, mag)"},
+            "skills": {
+                "type": "array",
+                "description": "Lista umiejętności specjalnych postaci",
+                "items": {
+                    "type": "object",
+                    "title": "Skill",
+                    "properties": {
+                        "name": {"type": "string", "description": "Nazwa umiejętności"},
+                        "description": {"type": "string", "description": "Opis umiejętności"}
+                    },
+                    "required": ["name", "description"]
+                }
+            },
+            "attributes": {
+                "type": "object",
+                "title": "CharacterAttributes",
+                "description": "Atrybuty postaci",
+                "properties": {
+                    "strength": {"type": "integer", "description": "Siła postaci"},
+                    "dexterity": {"type": "integer", "description": "Zręczność postaci"},
+                    "constitution": {"type": "integer", "description": "Wytrzymałość postaci"},
+                    "intelligence": {"type": "integer", "description": "Inteligencja postaci"},
+                    "wisdom": {"type": "integer", "description": "Mądrość postaci"},
+                    "charisma": {"type": "integer", "description": "Charyzma postaci"}
+                },
+                "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"]
+            }
+        },
+        "required": ["genre", "name", "race", "class_type", "skills", "attributes"]
+    }
+}

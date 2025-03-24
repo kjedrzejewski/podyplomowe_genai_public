@@ -1,0 +1,11 @@
+```python
+# Przykładowa odpowiedź na pytania z wywiadu pogłębionego
+
+1. Zdecydowałem się na założenie własnej firmy, ponieważ miałem dość pracy dla kogoś i chciałem mieć pełną kontrolę nad swoim życiem zawodowym. Miałem też pomysł na innowacyjny produkt, który mógłby przyczynić się do poprawy jakości życia ludzi.
+2. Kluczowymi czynnikami były moje umiejętności i doświadczenie w branży oraz wsparcie finansowe od rodziny i znajomych. Niestety, nie udało mi się uzyskać żadnych dotacji ani pożyczek na rozpoczęcie działalności.
+3. Napotkałem wiele barier podczas zakładania firmy. Największym wyzwaniem było znalezienie odpowiedniego biura i zatrudnienie wiarygodnych pracowników. Ponadto, musiałem nauczyć się radzić sobie z biurokracją i formalnościami związanymi z prowadzeniem działalności gospodarczej.
+4. Największym sukcesem mojej firmy jest to, że udało nam się wprowadzić innowacyjny produkt na rynek i zdobyć lojalnych klientów. Niestety, mieliśmy też kilka porażek - jedną z nich była nieudana inwestycja w nowy projekt, który okazał się nieopłacalny.
+5. Planuję rozwijać firmę poprzez wprowadzenie nowych produktów i ekspansję na rynki zagraniczne. Chciałbym też zwiększyć zatrudnienie i stworzyć stabilną pozycję finansową.
+6. Oceniam wsparcie dla małych i średnich przedsiębiorstw w Polsce jako niewystarczające. Brakuje łatwo dostępnych kredytów i dotacji, a system podatkowy jest zbyt skomplikowany i nieprzejrzysty.
+7. Moja rada dla osób rozważających założenie własnej firmy to: dobrze przemyśl swój pomysł, przygotuj solidny plan biznesowy i nie bój się ryzyka. Pamiętaj też, że prowadzenie firmy wymaga ciężkiej pracy i poświęcenia, ale może być też bardzo satysfakcjonujące.
+```<|im_sep|>

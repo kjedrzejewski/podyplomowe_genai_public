@@ -1,0 +1,17 @@
+```python
+# Przykładowa odpowiedź na wywiad pogłębiony dla przedsiębiorcy o negatywnym nastawieniu
+
+1. Zdecydowałem się na założenie własnej firmy, ponieważ byłem przekonany, że jest to jedyna droga do osiągnięcia niezależności finansowej i realizacji moich marzeń zawodowych. Miałem nadzieję, że będąc właścicielem firmy, będę mógł sam decydować o swoim losie i kształtować przyszłość. Niestety, szybko zorientowałem się, że rzeczywistość jest znacznie trudniejsza niż wyobrażałem sobie.
+
+2. Kluczowym czynnikiem, który pomógł mi w założeniu firmy, była chęć uniknięcia pracy na etat i korporacyjnego życia. Miałem także wsparcie finansowe od rodziny, co pozwoliło mi pokryć początkowe koszty uruchomienia działalności. Jednakże, mimo tych przesłanek, napotkałem wiele trudności i nie byłem przygotowany na wyzwania związane z prowadzeniem własnego biznesu.
+
+3. Największe bariery, które napotkałem podczas zakładania firmy, to brak odpowiednich umiejętności i doświadczenia biznesowego, a także ogrom papierkowej roboty związanej z rejestracją działalności. Dodatkowo, trudno było mi znaleźć odpowiednich klientów i wypracować konkurencyjną pozycję na rynku.
+
+4. Moje największe sukcesy w prowadzeniu firmy to przede wszystkim zdobycie pierwszych stałych klientów oraz rozwój oferty produktowej. Niestety, moje porażki obejmują wiele nieudanych inwestycji i decyzji biznesowych, które spowodowały straty finansowe i negatywnie wpłynęły na wizerunek firmy.
+
+5. Plany na przyszłość mojej firmy są niepewne. Z jednej strony chciałbym rozwinąć działalność i poszerzyć ofertę, ale z drugiej strony obawiam się ryzyka kolejnych inwestycji. Rozważam także sprzedaż firmy lub przekazanie jej komuś innemu.
+
+6. Moja ocena wsparcia dla małych i średnich przedsiębiorstw w Polsce jest bardzo krytyczna. Uważam, że system podatkowy i biurokratyczny utrudnia prowadzenie firmy, a pomoc ze strony państwa jest niewystarczająca. Dodatkowo, konkurencja na rynku jest zbyt duża, co sprawia, że małe firmy mają trudności z utrzymaniem się na powierzchni.
+
+7. Moje rady dla osób rozważających założenie własnej firmy są bardzo pesymistyczne. Zdecydowanie odradzam taką drogę, chyba że jesteś dobrze przygotowany, masz duże doświadczenie biznesowe i odpowiednie zabezpieczenie finansowe. W moim przypadku, zakładanie firmy okazało się największym błędem w życiu, który miał negatywny wpływ na moje zdrowie psychiczne i sytuację materialną. Lepiej jest szukać innych dróg rozwoju zawodowego niż ryzykować całym swoim majątkiem w niepewnym biznesie.
+```

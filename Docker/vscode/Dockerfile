@@ -12,6 +12,8 @@ RUN /home/coder/genai_venv/bin/pip install huggingface_hub
 RUN /home/coder/genai_venv/bin/pip install Pillow
 RUN /home/coder/genai_venv/bin/pip install wikipedia-api fandom-py
 RUN /home/coder/genai_venv/bin/pip install mathparse
+RUN /home/coder/genai_venv/bin/pip install pandas tqdm matplotlib
+RUN /home/coder/genai_venv/bin/pip install pydantic-ai
 
 ENV PATH="/home/coder/genai_venv/bin:$PATH"
 
