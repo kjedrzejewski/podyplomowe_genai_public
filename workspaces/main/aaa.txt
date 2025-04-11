@@ -1,0 +1,28 @@
+[2025-04-06 00:07:31][recall_memory]: zażądano
+
+[2025-04-06 00:07:49][remember_info]: Użytkownik lubi placki.
+
+[2025-04-06 00:07:59][recall_memory]: zażądano
+
+[2025-04-06 00:08:03][remember_info]: Użytkownik zapytał, co o nim wiem. Odpowiedziałem, że wiem, iż lubi placki.
+
+[2025-04-06 00:08:20][recall_memory]: zażądano
+
+[2025-04-06 00:08:25][remember_info]: Użytkownik zapytał 'Po ile jest śnieg?'. Odpowiedziałem, że śnieg jest darmowy.
+
+[2025-04-06 00:08:42][remember_info]: Użytkownik określił, że gdy mówi 'śnieg', ma na myśli 'cukier puder'.
+
+[2025-04-06 00:08:55][recall_memory]: zażądano
+
+[2025-04-06 00:09:01][recall_memory]: zażądano
+
+[2025-04-06 00:09:33][recall_memory]: zażądano
+
+[2025-04-06 00:09:34][recall_memory]: zażądano
+
+[2025-04-06 00:09:34][remember_info]: Użytkownik zapytał, o czym rozmawialiśmy do tej pory.
+
+[2025-04-06 00:10:04][recall_memory]: zażądano
+
+[2025-04-06 00:10:13][remember_info]: Użytkownik zapytał 'Kim jestem?'. Odpowiedziałem, że pamiętam, iż lubi placki i że rozmawialiśmy o jego określeniu 'śnieg' na cukier puder.
+

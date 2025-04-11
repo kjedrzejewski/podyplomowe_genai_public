@@ -13,3 +13,14 @@ services:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
       - HUGGINGFACE_HUB_TOKEN=${HUGGINGFACE_HUB_TOKEN}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+  mcp:
+    build:
+      context: ./Docker/mcp
+      dockerfile: Dockerfile
+    container_name: mcp
+    volumes:
+      - ./workspaces/main/mcp_scripts:/app/scripts
+    environment:
+      - MCP_PORT=8801
+    command: ["/app/scripts/math_functions.py"]
