@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Oncotyra 8 mg/ml koncentrat do sporządzania roztworu do infuzji           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+1 ml koncentratu zawiera 8 mg tyrazumabu (Tyrazumabum), przeciwciała monoklonalnego klasy IgG1 skierowanego przeciw receptorowi kinazy tyrozynowej TYR-2. Substancje pomocnicze: mannitol, histydyna, polisorbat 80, woda do wstrzykiwań.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Oncotyra wskazany jest do leczenia dorosłych pacjentów z zaawansowanym rakiem piersi wykazującym nadekspresję receptora TYR-2, w monoterapii lub w skojarzeniu z innymi lekami przeciwnowotworowymi. Lek może być również stosowany w leczeniu przerzutowego raka żołądka z nadekspresją TYR-2.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka początkowa wynosi 8 mg/kg masy ciała w postaci infuzji dożylnej, następnie 6 mg/kg co 3 tygodnie. Dawkowanie może być modyfikowane w zależności od tolerancji i odpowiedzi klinicznej.
+| Dzieci: Bezpieczeństwo i skuteczność stosowania u dzieci i młodzieży poniżej 18 lat nie zostały ustalone. Nie zaleca się stosowania.
+| Ciąża: Stosowanie w ciąży i okresie karmienia piersią jest przeciwwskazane, chyba że potencjalne korzyści przewyższają ryzyko dla płodu. W przypadku konieczności stosowania zaleca się ścisły nadzór lekarza.
+| Seniorzy: Nie jest konieczna modyfikacja dawki u osób w podeszłym wieku, jednak zaleca się szczególną ostrożność i monitorowanie funkcji narządów.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na tyrazumab lub którąkolwiek substancję pomocniczą. Ciąża i okres karmienia piersią. Ciężka niewydolność serca (klasa III/IV wg NYHA).
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Oncotyra może powodować reakcje związane z infuzją, w tym reakcje anafilaktyczne. Zaleca się monitorowanie pacjenta podczas i po podaniu leku. Należy zachować ostrożność u pacjentów z chorobami serca oraz monitorować czynność serca przed i w trakcie leczenia. Lek może zwiększać ryzyko zakażeń.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (≥1/10): reakcje związane z infuzją (gorączka, dreszcze), nudności, biegunka, zmęczenie. Często (≥1/100 do <1/10): neutropenia, wysypka, ból głowy, ból mięśni, zakażenia górnych dróg oddechowych. Niezbyt często (≥1/1000 do <1/100): reakcje anafilaktyczne, zaburzenia rytmu serca, niewydolność serca.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać. Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem. Okres ważności: 24 miesiące.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmatexis Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+3980 PLN
++-------------------------------------+

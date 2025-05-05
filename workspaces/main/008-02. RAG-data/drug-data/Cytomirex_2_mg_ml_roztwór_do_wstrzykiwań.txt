@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Cytomirex 2 mg/ml roztwór do wstrzykiwań           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+1 ml roztworu zawiera 2 mg mirastyny (substancja czynna), 10 mg mannitolu, 0,5 mg sodu chlorku, woda do wstrzykiwań do 1 ml.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Cytomirex wskazany jest w leczeniu zaawansowanego raka jajnika, raka płuc drobnokomórkowego oraz chłoniaków nieziarniczych u dorosłych i dzieci powyżej 3. roku życia. Może być stosowany w monoterapii lub w skojarzeniu z innymi lekami cytostatycznymi.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka wynosi 10 mg/m2 powierzchni ciała, podawana dożylnie co 3 tygodnie. Dawkę można modyfikować w zależności od tolerancji i parametrów hematologicznych.
+| Dzieci: Dzieci 3-12 lat: 8 mg/m2 powierzchni ciała dożylnie co 3 tygodnie. Dzieci powyżej 12 lat: jak dorośli. Nie zaleca się stosowania u dzieci poniżej 3 lat.
+| Ciąża: Stosowanie przeciwwskazane w ciąży i podczas karmienia piersią. W przypadku konieczności leczenia należy przerwać karmienie piersią.
+| Seniorzy: Nie ma konieczności modyfikacji dawki u pacjentów w podeszłym wieku, jednak zaleca się szczególną ostrożność i monitorowanie czynności nerek oraz wątroby.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na mirastynę lub którykolwiek składnik preparatu. Ciąża i okres karmienia piersią. Ciężka niewydolność wątroby lub nerek. Liczba neutrofili poniżej 1 500/mm3 lub płytek poniżej 100 000/mm3.
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Leczenie powinno być prowadzone pod ścisłym nadzorem lekarza doświadczonego w chemioterapii. Należy regularnie monitorować morfologię krwi, czynność wątroby i nerek. W przypadku wystąpienia objawów neurotoksyczności lub ciężkich reakcji alergicznych należy przerwać leczenie. Unikać kontaktu z osobami zakażonymi ze względu na ryzyko immunosupresji.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (>1/10): neutropenia, trombocytopenia, nudności, wymioty, łysienie. Często (1/10-1/100): biegunka, zapalenie błon śluzowych, zmęczenie, gorączka. Niezbyt często (1/100-1/1000): reakcje alergiczne, zaburzenia czynności wątroby, neuropatia obwodowa. Rzadko (<1/1000): ciężka mielosupresja, zespół rozpadu guza.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać. Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem. Okres ważności: 24 miesiące.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmagenix Polska Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+1240 PLN
++-------------------------------------+

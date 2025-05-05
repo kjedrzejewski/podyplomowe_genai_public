@@ -1,0 +1,47 @@
+services:
+  code-server:
+    build:
+      context: ./Docker/vscode
+      dockerfile: Dockerfile
+    container_name: vscode_container
+    ports:
+      - 127.0.0.1:8080:8080
+    volumes:
+      - ./workspaces:/home/coder/workspaces
+    environment:
+      - DEFAULT_WORKSPACE=/home/coder/workspaces/test
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - HUGGINGFACE_HUB_TOKEN=${HUGGINGFACE_HUB_TOKEN}
+      - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+  mcp:
+    build:
+      context: ./Docker/mcp
+      dockerfile: Dockerfile
+    container_name: mcp
+    volumes:
+      - ./workspaces/main/mcp_scripts:/app/scripts
+    environment:
+      - MCP_PORT=8801
+    command: ["/app/scripts/math_functions.py"]
+  weaviate:
+    image: semitechnologies/weaviate:1.30.1
+    container_name: weaviate
+    environment:
+      - QUERY_DEFAULTS_LIMIT=25
+      - AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true
+      - PERSISTENCE_DATA_PATH=/var/lib/weaviate
+      - DEFAULT_VECTORIZER_MODULE=text2vec-transformers
+      - ENABLE_MODULES=text2vec-transformers
+      - TRANSFORMERS_INFERENCE_API=http://t2v-transformers:8080
+      - CLUSTER_HOSTNAME=node1
+    volumes:
+      - ./workspaces/main/008-02. RAG-data/weaviate_data:/var/lib/weaviate
+    depends_on:
+      - t2v-transformers
+  t2v-transformers:
+    image: semitechnologies/transformers-inference:sentence-transformers-paraphrase-multilingual-MiniLM-L12-v2
+    container_name: t2v-transformers
+    environment:
+      - ENABLE_CUDA=0
+

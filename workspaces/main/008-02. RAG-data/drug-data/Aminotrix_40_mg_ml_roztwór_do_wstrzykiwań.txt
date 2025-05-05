@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Aminotrix 40 mg/ml roztwór do wstrzykiwań           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+1 ml roztworu zawiera 40 mg amikazyny (w postaci siarczanu amikazyny). Substancje pomocnicze: chlorek sodu, woda do wstrzykiwań.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Aminotrix wskazany jest w leczeniu ciężkich zakażeń bakteryjnych wywołanych przez wrażliwe szczepy bakterii Gram-ujemnych i niektóre Gram-dodatnie, w tym: posocznica, zakażenia dróg moczowych, zakażenia dolnych dróg oddechowych, zakażenia jamy brzusznej, zakażenia skóry i tkanek miękkich, zakażenia kości i stawów oraz powikłane zakażenia szpitalne.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka wynosi 15 mg/kg mc. na dobę, podawana w dwóch dawkach podzielonych co 12 godzin. Maksymalna dawka dobowa nie powinna przekraczać 1,5 g.
+| Dzieci: Niemowlęta i dzieci: 15-20 mg/kg mc. na dobę w dwóch dawkach podzielonych. Noworodki: początkowo 10 mg/kg mc., następnie 7,5 mg/kg mc. co 12 godzin.
+| Ciąża: Stosowanie w ciąży i okresie karmienia piersią jest przeciwwskazane, chyba że korzyści dla matki przewyższają potencjalne ryzyko dla płodu lub dziecka. W takich przypadkach dawka powinna być ustalana indywidualnie przez lekarza.
+| Seniorzy: Dawkowanie jak u dorosłych, jednak zaleca się ostrożność i dostosowanie dawki w zależności od czynności nerek.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na amikazynę, inne aminoglikozydy lub którąkolwiek substancję pomocniczą. Ciężka niewydolność nerek, miastenia gravis, ciąża i okres karmienia piersią (chyba że jest to bezwzględnie konieczne).
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Stosować ostrożnie u pacjentów z zaburzeniami czynności nerek, słuchem lub równowagą. Zaleca się regularne monitorowanie czynności nerek, słuchu oraz stężenia leku we krwi. Ryzyko ototoksyczności i nefrotoksyczności wzrasta przy długotrwałym stosowaniu lub przekroczeniu zalecanych dawek. Unikać jednoczesnego stosowania z innymi lekami nefro- lub ototoksycznymi.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (≥1/10): nefrotoksyczność, wzrost stężenia kreatyniny. Często (≥1/100 do <1/10): ototoksyczność (szumy uszne, zawroty głowy), nudności, wysypka. Niezbyt często (≥1/1000 do <1/100): reakcje alergiczne, gorączka polekowa. Rzadko (<1/1000): agranulocytoza, trombocytopenia, skurcz oskrzeli.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w temperaturze poniżej 25°C. Nie zamrażać. Przechowywać w oryginalnym opakowaniu w celu ochrony przed światłem. Okres ważności: 24 miesiące.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmagenix Polska Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+78,50 PLN
++-------------------------------------+

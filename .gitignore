@@ -1,1 +1,4 @@
 .DS_Store
+.venv
+**/__pycache__
+workspaces/main/008-02. RAG-data/weaviate_data/*

@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Oncofidera 100 mg/ml koncentrat do sporządzania roztworu do infuzji           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+Każdy ml koncentratu zawiera: fidelizumab (ludzkie przeciwciało monoklonalne anty-PD-L1) 100 mg, mannitol, histydyna, woda do wstrzykiwań.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Oncofidera wskazany jest do immunoterapii nowotworów złośliwych, w tym zaawansowanego niedrobnokomórkowego raka płuca, czerniaka oraz raka nerki u dorosłych i młodzieży powyżej 12. roku życia. Lek stosuje się w przypadkach, gdy standardowe leczenie okazało się nieskuteczne lub nie jest tolerowane.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka wynosi 10 mg/kg masy ciała podawana dożylnie co 2 tygodnie. Leczenie należy kontynuować do progresji choroby lub wystąpienia niedopuszczalnej toksyczności.
+| Dzieci: Dzieci 12-17 lat: 10 mg/kg masy ciała dożylnie co 2 tygodnie. Dzieci poniżej 12 lat: bezpieczeństwo i skuteczność nie zostały ustalone – nie zaleca się stosowania.
+| Ciąża: Nie zaleca się stosowania w ciąży i podczas karmienia piersią, chyba że potencjalne korzyści przewyższają ryzyko dla płodu lub dziecka. W przypadku konieczności stosowania – ścisły nadzór lekarza.
+| Seniorzy: Nie jest wymagane dostosowanie dawki u osób powyżej 65. roku życia. Zaleca się monitorowanie czynności wątroby i nerek.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na fidelizumab lub którąkolwiek substancję pomocniczą. Aktywne choroby autoimmunologiczne wymagające leczenia immunosupresyjnego. Ciężkie, niekontrolowane infekcje.
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Leczenie może powodować reakcje immunologiczne, w tym zapalenie płuc, wątroby, jelit i tarczycy. Zaleca się regularne monitorowanie parametrów laboratoryjnych oraz obserwację pacjenta pod kątem objawów niepożądanych. W przypadku wystąpienia ciężkich działań niepożądanych należy rozważyć przerwanie leczenia.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (≥1/10): zmęczenie, świąd, wysypka, biegunka. Często (≥1/100 do <1/10): zapalenie płuc, zapalenie wątroby, niedoczynność tarczycy, gorączka, nudności. Niezbyt często (≥1/1000 do <1/100): reakcje anafilaktyczne, zapalenie okrężnicy, zapalenie trzustki.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać. Chronić przed światłem. Okres ważności: 24 miesiące. Po rozcieńczeniu roztwór należy zużyć w ciągu 24 godzin.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmateon Biologics Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+7850 PLN
++-------------------------------------+

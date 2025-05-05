@@ -18,6 +18,8 @@ RUN /home/coder/genai_venv/bin/pip install mathparse
 RUN /home/coder/genai_venv/bin/pip install pandas tqdm matplotlib
 RUN /home/coder/genai_venv/bin/pip install duckduckgo-search
 RUN /home/coder/genai_venv/bin/pip install accelerate torch transformers sentence-transformers faiss-cpu
+RUN /home/coder/genai_venv/bin/pip install weaviate-client hf_xet faker
+RUN /home/coder/genai_venv/bin/pip install dspy-ai
 
 ENV PATH="/home/coder/genai_venv/bin:$PATH"
 

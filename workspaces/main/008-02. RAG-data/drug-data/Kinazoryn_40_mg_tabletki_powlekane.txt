@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Kinazoryn 40 mg tabletki powlekane           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+Każda tabletka powlekana zawiera 40 mg sylfatinibu (inhibitor kinazy tyrozynowej) oraz substancje pomocnicze: laktoza jednowodna, celuloza mikrokrystaliczna, powidon, magnez stearynowy.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Kinazoryn wskazany jest do leczenia dorosłych pacjentów z zaawansowanymi guzami litymi wykazującymi nadekspresję receptorów kinaz tyrozynowych, w tym raka płuca niedrobnokomórkowego, raka nerki oraz niektórych postaci raka tarczycy. Lek może być stosowany w monoterapii lub w skojarzeniu z innymi lekami przeciwnowotworowymi.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka to 40 mg raz na dobę, niezależnie od posiłków. Leczenie należy kontynuować do momentu progresji choroby lub wystąpienia niedopuszczalnej toksyczności.
+| Dzieci: Nie zaleca się stosowania Kinazorynu u dzieci i młodzieży poniżej 18 lat ze względu na brak danych dotyczących bezpieczeństwa i skuteczności.
+| Ciąża: Stosowanie w ciąży i podczas karmienia piersią jest przeciwwskazane. W przypadku konieczności leczenia kobiet w wieku rozrodczym należy stosować skuteczną antykoncepcję podczas terapii i przez co najmniej 3 miesiące po jej zakończeniu.
+| Seniorzy: Nie jest konieczna modyfikacja dawki u osób w podeszłym wieku (≥65 lat), jednak zaleca się szczególną ostrożność i monitorowanie czynności nerek oraz wątroby.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na sylfatinib lub którąkolwiek substancję pomocniczą. Ciąża i okres karmienia piersią. Ciężka niewydolność wątroby lub nerek. Stosowanie jednocześnie z silnymi inhibitorami CYP3A4.
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Przed rozpoczęciem leczenia należy ocenić czynność wątroby i nerek. W trakcie terapii zaleca się regularne monitorowanie parametrów hematologicznych, czynności wątroby i ciśnienia tętniczego. Lek może powodować zaburzenia rytmu serca – zaleca się okresowe wykonywanie EKG. U pacjentów z chorobami serca należy zachować szczególną ostrożność.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (≥1/10): nadciśnienie tętnicze, biegunka, zmęczenie, nudności. Często (≥1/100 do <1/10): wysypka, ból głowy, zaburzenia smaku, neutropenia, podwyższenie aktywności aminotransferaz. Niezbyt często (≥1/1000 do <1/100): zaburzenia rytmu serca, reakcje alergiczne, zakrzepica żylna.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w temperaturze poniżej 25°C, w oryginalnym opakowaniu w celu ochrony przed wilgocią. Okres ważności: 24 miesiące.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmagenix Sp. z o.o., ul. Nowatorska 12, 00-123 Warszawa
++-------------------------------------+
+
++-----------CENA--------------------+
+1249 PLN
++-------------------------------------+

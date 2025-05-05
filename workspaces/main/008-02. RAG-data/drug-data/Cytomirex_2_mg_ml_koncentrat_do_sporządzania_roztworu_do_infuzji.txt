@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Cytomirex 2 mg/ml koncentrat do sporządzania roztworu do infuzji           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+1 ml koncentratu zawiera 2 mg mirastyny (Mirastinum chloratum) oraz substancje pomocnicze: sodu chlorek, woda do wstrzykiwań.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Cytomirex wskazany jest w leczeniu zaawansowanego raka jajnika, niedrobnokomórkowego raka płuca oraz mięsaka tkanek miękkich u dorosłych i dzieci powyżej 2. roku życia. Może być stosowany jako monoterapia lub w skojarzeniu z innymi lekami cytostatycznymi.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka wynosi 10–20 mg/m2 powierzchni ciała co 3 tygodnie w postaci infuzji dożylnej trwającej 60 minut. Dawka może być dostosowywana w zależności od tolerancji i parametrów hematologicznych.
+| Dzieci: Dzieci 2-11 lat: 8 mg/m2 powierzchni ciała co 3 tygodnie w infuzji dożylnej. Dzieci powyżej 12 lat: dawkowanie jak u dorosłych. Nie zaleca się stosowania u dzieci poniżej 2 lat.
+| Ciąża: Cytomirex jest przeciwwskazany w ciąży i podczas karmienia piersią. Nie należy stosować u kobiet ciężarnych i karmiących, chyba że potencjalne korzyści przewyższają ryzyko.
+| Seniorzy: U osób w podeszłym wieku (powyżej 65 lat) zaleca się rozpoczęcie leczenia od dolnego zakresu dawkowania (10 mg/m2) i ostrożne monitorowanie parametrów nerkowych oraz hematologicznych.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na mirastynę lub którąkolwiek substancję pomocniczą. Ciąża i okres karmienia piersią. Ciężka niewydolność wątroby lub nerek. Liczba neutrofili < 1 500/mm3 lub płytek krwi < 100 000/mm3. Zakażenia uogólnione.
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Stosować pod ścisłą kontrolą lekarza doświadczonego w leczeniu cytostatykami. W trakcie leczenia zaleca się regularną kontrolę morfologii krwi, funkcji wątroby i nerek. Należy zachować szczególną ostrożność u pacjentów z upośledzoną czynnością szpiku. Ryzyko reakcji nadwrażliwości, zespołu rozpadu guza oraz wtórnych nowotworów złośliwych.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (>10%): neutropenia, trombocytopenia, nudności, wymioty, łysienie. Często (1–10%): zmęczenie, podwyższenie transaminaz, biegunka, reakcje skórne. Niezbyt często (0,1–1%): reakcje nadwrażliwości, zaburzenia rytmu serca, owrzodzenia jamy ustnej. Rzadko (<0,1%): zespół rozpadu guza, wtórna białaczka, ciężkie reakcje anafilaktyczne.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w lodówce (2–8°C). Nie zamrażać. Zużyć w ciągu 24 miesięcy od daty produkcji. Po rozcieńczeniu roztwór należy zużyć w ciągu 24 godzin po przechowywaniu w temperaturze 2–8°C.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Pharmateon Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+2170 PLN
++-------------------------------------+

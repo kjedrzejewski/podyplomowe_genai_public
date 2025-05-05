@@ -1,0 +1,33 @@
+
+╔══════════════════════════════════╗
+║        NAZWA LEKU: Provartol 50 mg/ml roztwór do infuzji      ║
+╚══════════════════════════════════╝
+
+▌SKŁAD
+Każdy ml roztworu zawiera 50 mg provartynibu (syntetyczny inhibitor kinazy białkowej) oraz substancje pomocnicze: chlorek sodu, woda do wstrzykiwań.
+
+▌WSKAZANIA
+Provartol wskazany jest w leczeniu dorosłych pacjentów z zaawansowanym rakiem płuca niedrobnokomórkowego z obecnością mutacji genu PRV-1, a także w terapii celowanej opornej postaci raka jelita grubego z ekspresją receptora VORP. Może być stosowany w monoterapii lub w skojarzeniu z innymi lekami przeciwnowotworowymi.
+
+▌DAWKOWANIE
+  Dorośli: Zalecana dawka wynosi 50 mg/kg masy ciała podawana w postaci infuzji dożylnej raz na 2 tygodnie. Dawkowanie może być modyfikowane w zależności od tolerancji i odpowiedzi klinicznej.
+  Dzieci: Nie zaleca się stosowania u dzieci i młodzieży poniżej 18 lat ze względu na brak danych dotyczących bezpieczeństwa i skuteczności.
+  Ciąża: Stosowanie w ciąży i podczas karmienia piersią jest przeciwwskazane, chyba że potencjalne korzyści przewyższają ryzyko dla płodu lub dziecka. W przypadku konieczności stosowania należy przerwać karmienie piersią.
+  Seniorzy: Nie jest wymagana modyfikacja dawki u osób w podeszłym wieku, jednak zaleca się szczególną ostrożność i monitorowanie czynności wątroby oraz nerek.
+
+▌PRZECIWWSKAZANIA
+Nadwrażliwość na provartynib lub którąkolwiek substancję pomocniczą. Ciąża i okres karmienia piersią. Ciężka niewydolność wątroby lub nerek. Aktywne infekcje wirusowe lub bakteryjne.
+
+▌OSTRZEŻENIA
+Leczenie powinno być prowadzone pod ścisłym nadzorem lekarza doświadczonego w terapii onkologicznej. Zaleca się regularne monitorowanie parametrów hematologicznych, czynności wątroby i nerek. U pacjentów z chorobami serca należy zachować szczególną ostrożność. Może wystąpić ryzyko reakcji nadwrażliwości podczas infuzji.
+
+▌SKUTKI UBOCZNE
+Bardzo często (>1/10): nudności, zmęczenie, neutropenia, wysypka. Często (1/100 do 1/10): biegunka, podwyższenie aktywności enzymów wątrobowych, gorączka, bóle głowy. Niezbyt często (1/1000 do 1/100): reakcje anafilaktyczne, zaburzenia rytmu serca, zakrzepica żylna.
+
+▌PRZECHOWYWANIE
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać. Okres ważności: 24 miesiące. Po otwarciu zużyć natychmiast.
+
+▌PRODUCENT
+Pharmovira Sp. z o.o., ul. Przykładowa 12, 00-001 Warszawa
+
+▌CENA: 4200 PLN

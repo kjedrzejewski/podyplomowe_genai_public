@@ -1,0 +1,43 @@
+
++-------------------------------------+
+|        NAZWA LEKU: Immunolix 20 mg/ml koncentrat do sporządzania roztworu do infuzji           |
++-------------------------------------+
+
++-------------SKŁAD------------------+
+Każda fiolka zawiera 100 mg rekombinowanego przeciwciała monoklonalnego onkolizumabu w 5 ml koncentratu (20 mg/ml) oraz substancje pomocnicze: sacharoza, histydyna, polisorbat 80, woda do wstrzykiwań.
++-------------------------------------+
+
++------------WSKAZANIA--------------+
+Immunolix wskazany jest do stosowania w leczeniu zaawansowanego raka płuca niedrobnokomórkowego oraz czerniaka z przerzutami u dorosłych pacjentów, u których nie wykazano reakcji na wcześniejsze leczenie klasyczną chemioterapią lub inhibitorami kinaz tyrozynowych. Może być stosowany w monoterapii lub w skojarzeniu z innymi lekami immunomodulującymi.
++-------------------------------------+
+
++----------DAWKOWANIE---------------+
+| Dorośli: Zalecana dawka wynosi 3 mg/kg masy ciała podawana w infuzji dożylnej co 2 tygodnie. Leczenie należy kontynuować do progresji choroby lub wystąpienia niedopuszczalnej toksyczności.
+| Dzieci: Bezpieczeństwo i skuteczność stosowania Immunolixu u dzieci i młodzieży (<18 lat) nie zostały określone. Nie zaleca się stosowania w tej populacji.
+| Ciąża: Nie zaleca się stosowania w okresie ciąży ani karmienia piersią, chyba że potencjalna korzyść przewyższa możliwe ryzyko dla płodu lub dziecka. Jeśli konieczne jest stosowanie, należy przeprowadzić indywidualną ocenę ryzyka.
+| Seniorzy: Nie jest wymagana modyfikacja dawki u pacjentów w podeszłym wieku (≥65 lat). Należy jednak zachować ostrożność z uwagi na większe ryzyko działań niepożądanych.
++-------------------------------------+
+
++--------PRZECIWWSKAZANIA-----------+
+Nadwrażliwość na onkolizumab lub którąkolwiek substancję pomocniczą. Aktywne, ciężkie choroby autoimmunologiczne lub wcześniejsze wystąpienie zespołu uwalniania cytokin. Ciąża i okres karmienia piersią (jeśli nie jest to bezwzględnie konieczne).
++-------------------------------------+
+
++-----------OSTRZEŻENIA-------------+
+Zachować szczególną ostrożność u pacjentów z chorobami autoimmunologicznymi, zaburzeniami czynności wątroby lub nerek oraz po wcześniejszych ciężkich reakcjach na immunoterapię. W trakcie leczenia zaleca się regularne monitorowanie parametrów hematologicznych i czynnościowych wątroby. W przypadku objawów zespołu uwalniania cytokin lub ciężkich reakcji nadwrażliwości należy natychmiast przerwać leczenie.
++-------------------------------------+
+
++--------DZIAŁANIA NIEPOŻĄDANE------+
+Bardzo często (≥1/10): zmęczenie, nudności, gorączka, wysypka. Często (≥1/100 do <1/10): biegunka, bóle stawów, zwiększenie aktywności aminotransferaz, świąd, kaszel. Niezbyt często (≥1/1000 do <1/100): ciężkie reakcje nadwrażliwości, zespół uwalniania cytokin, zapalenie okrężnicy, zapalenie płuc. Rzadko (<1/1000): autoimmunologiczne zapalenie wątroby, niedoczynność kory nadnerczy.
++-------------------------------------+
+
++----------PRZECHOWYWANIE-----------+
+Przechowywać w lodówce (2°C – 8°C). Nie zamrażać. Przechowywać fiolki w oryginalnym opakowaniu w celu ochrony przed światłem. Okres ważności: 24 miesiące. Po rozcieńczeniu roztwór należy zużyć w ciągu 24 godzin.
++-------------------------------------+
+
++----------PRODUCENT----------------+
+Novamedica Polska Sp. z o.o.
++-------------------------------------+
+
++-----------CENA--------------------+
+12750 PLN
++-------------------------------------+
