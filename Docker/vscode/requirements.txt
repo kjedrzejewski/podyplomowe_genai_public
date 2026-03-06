@@ -1,0 +1,48 @@
+# === Jupyter & IDE ===
+jupyterlab
+ipywidgets
+
+# === LLM APIs ===
+openai
+openai-agents
+
+# === LLM Frameworks ===
+langchain
+langchain_community
+langchain-openai
+pydantic
+pydantic-ai
+pydantic-ai-slim[mcp]
+dspy-ai
+
+# === MCP (Model Context Protocol) ===
+mcp[cli]
+
+# === Deep Learning ===
+torch
+accelerate
+transformers
+
+# === Embeddings & Vector Search ===
+sentence-transformers
+faiss-cpu
+weaviate-client
+
+# === Hugging Face Ecosystem ===
+huggingface_hub
+hf_xet
+
+# === Data Processing & Visualization ===
+pandas
+matplotlib
+tqdm
+Pillow
+
+# === External Data Sources ===
+wikipedia-api
+fandom-py
+duckduckgo-search
+
+# === Utilities ===
+faker
+mathparse
