@@ -19,7 +19,8 @@
                         "name": {"type": "string", "description": "Nazwa umiejętności"},
                         "description": {"type": "string", "description": "Opis umiejętności"}
                     },
-                    "required": ["name", "description"]
+                    "required": ["name", "description"],
+                    "additionalProperties": false
                 }
             },
             "attributes": {
@@ -34,9 +35,11 @@
                     "wisdom": {"type": "integer", "description": "Mądrość postaci"},
                     "charisma": {"type": "integer", "description": "Charyzma postaci"}
                 },
-                "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"]
+                "required": ["strength", "dexterity", "constitution", "intelligence", "wisdom", "charisma"],
+                "additionalProperties": false
             }
         },
-        "required": ["genre", "name", "race", "class_type", "skills", "attributes"]
+        "required": ["genre", "name", "race", "class_type", "skills", "attributes"],
+        "additionalProperties": false
     }
 }
