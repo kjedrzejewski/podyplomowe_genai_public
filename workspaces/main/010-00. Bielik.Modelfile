@@ -1,0 +1,66 @@
+# Modelfile dla Bielika z customowym templatem pod tool calling.
+#
+# Cel: nadpisać template Bielika tak, aby parser Ollamy potrafił dynamicznie
+# wykryć prefix `<tool_call>` z odpowiedzi modelu i zamienić go na
+# strukturyzowane pole `tool_calls` w API.
+#
+# Sztuczka: literalny tekst `<tool_call>` i `</tool_call>` MUSI sąsiadować
+# z konstrukcją `{{ range .ToolCalls }}` - Ollama wnioskuje prefix
+# z węzłów tekstowych przylegających do tej zmiennej.
+#
+# Użycie:
+#   ollama create bielik-tools -f "010-00. Bielik.Modelfile"
+#   # potem w notebooku użyj model_name="bielik-tools" zamiast oryginalnego
+#
+# Szczegóły co dokładnie zmieniamy względem oryginalnego Modelfile'a:
+# patrz `010-00. Bielik.Modelfile.md`.
+#
+# Uwaga: nawet z poprawnym templatem parsowanie bywa zawodne dla Bielika
+# (model emituje białe znaki niespójnie).
+
+FROM SpeakLeash/bielik-11b-v3.0-instruct:bf16
+
+TEMPLATE """{{- if or .System .Tools }}<|im_start|>system
+{{ if .System }}{{ .System }}
+{{ end }}
+{{- if .Tools }}You are a function calling AI model. You are provided with function signatures within <tools></tools> XML tags. You may call one function at a time to assist with the user query. Don't make assumptions about what values to plug into functions.
+
+<tools>
+{{- range .Tools }}
+{{ . }}
+{{- end }}
+</tools>
+
+For each function call, return a JSON object with function name and arguments within <tool_call></tool_call> XML tags as follows:
+<tool_call>{"name": <function-name>, "arguments": <args-dict>}</tool_call>
+{{- end }}<|im_end|>
+{{ end }}
+{{- range $i, $_ := .Messages }}
+{{- $last := eq (len (slice $.Messages $i)) 1 -}}
+{{- if eq .Role "user" }}<|im_start|>user
+{{ .Content }}<|im_end|>
+{{ else if eq .Role "assistant" }}<|im_start|>assistant
+{{- if .Content }}
+{{ .Content }}
+{{- end }}
+{{- if .ToolCalls }}
+{{- range .ToolCalls }}<tool_call>{"name": "{{ .Function.Name }}", "arguments": {{ .Function.Arguments }}}</tool_call>
+{{- end }}
+{{- end }}{{ if not $last }}<|im_end|>
+{{ end }}
+{{- else if eq .Role "tool" }}<|im_start|>tool
+<tool_response>
+{{ .Content }}
+</tool_response><|im_end|>
+{{ end }}
+{{- if and (ne .Role "assistant") $last }}<|im_start|>assistant
+{{ end }}
+{{- end }}"""
+
+# Parametry inferencji - dobre dla agentów, gdzie chcemy minimum kreatywności
+# i deterministyczne wybory narzędzi.
+PARAMETER temperature 0.1
+
+# Stop sequence - nie pozwalamy modelowi zaczynać kolejnego turna sam z siebie.
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"

@@ -5,6 +5,7 @@ ipywidgets
 # === LLM APIs ===
 openai
 openai-agents
+ollama
 
 # === LLM Frameworks ===
 langchain
@@ -14,6 +15,9 @@ pydantic
 pydantic-ai
 pydantic-ai-slim[mcp]
 dspy-ai
+llama-index-core
+llama-index-llms-openai-like
+llama-index-llms-ollama
 
 # === MCP (Model Context Protocol) ===
 mcp[cli]
@@ -41,7 +45,7 @@ Pillow
 # === External Data Sources ===
 wikipedia-api
 fandom-py
-duckduckgo-search
+ddgs
 
 # === Utilities ===
 faker

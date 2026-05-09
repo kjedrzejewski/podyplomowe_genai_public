@@ -8,7 +8,8 @@ USER coder
 RUN python3 -m venv /home/coder/genai_venv
 RUN /home/coder/genai_venv/bin/pip install uv
 COPY --chown=coder:coder ./requirements.txt /tmp/requirements.txt
-RUN /home/coder/genai_venv/bin/uv pip install --python /home/coder/genai_venv/bin/python -r /tmp/requirements.txt
+RUN --mount=type=cache,target=/home/coder/.cache/uv,uid=1000,gid=1000 \
+    /home/coder/genai_venv/bin/uv pip install --python /home/coder/genai_venv/bin/python -r /tmp/requirements.txt
 
 ENV PATH="/home/coder/genai_venv/bin:$PATH"
 
